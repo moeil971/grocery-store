@@ -1,0 +1,10 @@
+{
+  "name": "مجتمع اندیشه",
+  "short_name": "اندیشه",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#0b1220",
+  "lang": "fa",
+  "dir": "rtl"
+}
